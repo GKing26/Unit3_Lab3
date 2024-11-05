@@ -1,0 +1,11 @@
+>--- Question 1
+     The base case is when there is only one element in the list which is also when we stop digging down into the function
+
+>--- Question 2
+     It splits the list in half until it reaches only one element in a lists
+  
+>--- Question 3
+     using splicing, I think that is what [#:#] is called and then also using in int to make sure when you divide the list in half that it ends up as an integer
+    
+>--- Question 4
+     Because you will need to go through each and need to move things around weird and not return a part of a list that is already sorted and it keeps happening, so once you get to the end of one of the lists you will be able to just tack on the rest of one of the lists that is full of bigger numbers so you do not need to compare all numbers in a list
